@@ -421,6 +421,7 @@ CREATE TABLE `o2o_order`(
 
 ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
 修改一点点
+修改了一个BUG！
 
 
 
